@@ -1,0 +1,5 @@
+{
+  "name": "DriveLink",
+  "description": "Personal booking and follow-up system for car sales reps using Google APIs and Twilio.",
+  "requestFramePermissions": []
+}
